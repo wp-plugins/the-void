@@ -1,0 +1,55 @@
+.tv-container {
+	width: 100%;
+	margin-top: 30px;
+}
+
+.tv-content {
+	width: 50%;
+	margin: 0 auto;
+	text-align: center;
+}
+
+.tv-button {
+	float: left;
+	width: 100%;
+}
+
+.tv-result-container {
+	width: 500px;
+	margin: 0 auto;
+	margin-top: 30px;
+}
+
+.tv-result {
+	float: left;
+	display: none;
+	width: 100%;
+}
+
+.tv-result-ok {
+	color: #fff;
+	background-color: green;
+	padding: 10px;
+	margin-bottom: 10px;
+}
+
+.tv-result-ko {
+	color: #fff;
+	background-color: #999999;
+	padding: 10px;
+	margin-bottom: 10px;
+}
+
+.tv-result-errors {
+	color: #000;
+	background-color: yellow;
+	padding: 10px;
+	margin-bottom: 10px;
+}
+
+.tv-result-error {
+	color: #fff;
+	background-color: red;
+	padding: 10px;
+	margin-bottom: 10px;
+}
